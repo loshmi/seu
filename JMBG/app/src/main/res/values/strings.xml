@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JMBG</string>
+    <string name="unesi_jmbg">Unesi JMBG</string>
+    <string name="prikazi">Prikazi</string>
+    <string name="dob">Datum rodjenja</string>
+    <string name="mesto">Mesto rodjenja</string>
+    <string name="pol">Pol</string>
+    <string name="broj">Redni broj</string>
+    <string name="action_settings">Settings</string>
+</resources>
+
